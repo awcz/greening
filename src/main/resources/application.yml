@@ -1,0 +1,14 @@
+micronaut:
+  security:
+    enabled: false
+  application:
+    name: greening
+  server:
+    max-request-size: 20MB
+    idle-timeout: 30s
+    netty:
+      access-logger:
+        enabled: false
+  http:
+    client:
+      read-timeout: 60s
