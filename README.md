@@ -1,5 +1,6 @@
 # 🌱 GreenIng
 [![Java CI with Maven](https://github.com/awcz/greening/actions/workflows/maven.yml/badge.svg)](https://github.com/awcz/greening/actions/workflows/maven.yml)
+[![CodeQL](https://github.com/awcz/greening/actions/workflows/codeql.yml/badge.svg)](https://github.com/awcz/greening/actions/workflows/codeql.yml)
 
 The goal of this project is to build an eco-friendly Java application.
 This is achieved by using a fast framework that ensures a quick start and optimal use of resources, implementing services with efficient data processing and reducing the size of the executable file. Small size of the codebase is also important!
